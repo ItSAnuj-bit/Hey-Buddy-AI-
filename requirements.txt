@@ -1,0 +1,6 @@
+SpeechRecognition
+pyttsx3
+selenium
+pyautogui
+screen-brightness-control
+pyaudio
