@@ -4,3 +4,11 @@ selenium
 pyautogui
 screen-brightness-control
 pyaudio
+PyGetWindow
+PyMsgBox
+PyRect
+PyScreeze
+MouseInfo
+Pillow
+comtypes
+pycaw
